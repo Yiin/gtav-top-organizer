@@ -1,7 +1,7 @@
 [
 	{
 		"category": "empty",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 15
 	},
 	{
@@ -16,7 +16,7 @@
 	},
 	{
 		"category": "monster",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 15
 	},
 	{
@@ -381,57 +381,57 @@
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 0
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 1
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 10
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 11
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 12
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 13
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 3
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 4
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 5
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 8
 	},
 	{
 		"category": "open",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 9
 	},
 	{
@@ -666,17 +666,17 @@
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 14
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 15
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 2
 	},
 	{
@@ -796,17 +796,17 @@
 	},
 	{
 		"category": "vest",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 15
 	},
 	{
 		"category": "vest",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 6
 	},
 	{
 		"category": "vest",
-		"dlc": "mp_m_0",
+		"dlc": "mp_m_freemode_01",
 		"drawable": 7
 	},
 	{

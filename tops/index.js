@@ -18,7 +18,7 @@ function convertPath(path) {
   let dlc = compSplit.join("_");
 
   if (dlc === "0") {
-    dlc = path.includes("female-tops") ? "mp_f_0" : "mp_m_0";
+    dlc = path.includes("female-tops") ? "mp_f_freemode_01" : "mp_m_freemode_01";
   }
 
   return { category, dlc, drawable, torsos: Torsos[dlc][drawable] };

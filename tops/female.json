@@ -185,7 +185,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 0,
 		"torsos": [
 			0
@@ -193,7 +193,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 11,
 		"torsos": [
 			4
@@ -201,7 +201,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 13,
 		"torsos": [
 			4
@@ -209,7 +209,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 14,
 		"torsos": [
 			0
@@ -217,7 +217,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 15,
 		"torsos": [
 			4
@@ -225,7 +225,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2,
 		"torsos": [
 			2
@@ -233,7 +233,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 3,
 		"torsos": [
 			3
@@ -241,7 +241,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 5,
 		"torsos": [
 			4
@@ -249,7 +249,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 9,
 		"torsos": [
 			9
@@ -2763,7 +2763,7 @@
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 1,
 		"torsos": [
 			9,
@@ -2773,7 +2773,7 @@
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 7,
 		"torsos": [
 			1,
@@ -3328,7 +3328,7 @@
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 10,
 		"torsos": [
 			6,
@@ -3337,7 +3337,7 @@
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 6,
 		"torsos": [
 			5,
@@ -3346,7 +3346,7 @@
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 8,
 		"torsos": [
 			5,

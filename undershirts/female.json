@@ -1,7 +1,7 @@
 [
 	{
 		"category": "empty",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2
 	},
 	{
@@ -16,7 +16,7 @@
 	},
 	{
 		"category": "monster",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"category": "none",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2
 	},
 	{
@@ -256,17 +256,17 @@
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 0
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 11
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 13
 	},
 	{
@@ -616,17 +616,17 @@
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 1
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2
 	},
 	{
 		"category": "partial",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 5
 	},
 	{
@@ -811,7 +811,7 @@
 	},
 	{
 		"category": "vest",
-		"dlc": "mp_f_0",
+		"dlc": "mp_f_freemode_01",
 		"drawable": 2
 	},
 	{

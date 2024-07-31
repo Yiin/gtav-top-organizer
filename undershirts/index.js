@@ -20,7 +20,7 @@ function convertPath(path) {
 
   if (dlc === "0") {
     dlc =
-      path.includes("mp_f") || path.includes("Female_") ? "mp_f_0" : "mp_m_0";
+      path.includes("mp_f") || path.includes("Female_") ? "mp_f_freemode_01" : "mp_m_freemode_01";
   }
 
   return { category, dlc, drawable };
